@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://gbr-monheim.de/iserv/exercise/manage/exercise/639/submission/show/*
-// @match        https://gbr-monheim.de/iserv/exercise/manage/exercise/639*
+// @match        https://gbr-monheim.de/iserv/exercise/manage/exercise/*/submission/show/*
+// @match        https://gbr-monheim.de/iserv/exercise/manage/exercise/*
 // @grant        none
 // ==/UserScript==
 
